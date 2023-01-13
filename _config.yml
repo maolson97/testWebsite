@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: UChicago CAM Wiki
+description: A website with information about the Computational and Applied Mathematics and the Statistics program at UChicago
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Stats Website: https://stat.uchicago.edu/
+  CAM Website: https://cam.uchicago.edu/
+
+color_scheme: chicago
+
+logo: "/assets/images/University_of_Chicago_shield.png"
